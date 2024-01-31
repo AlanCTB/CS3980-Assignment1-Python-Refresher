@@ -1,9 +1,9 @@
-## CS3980 Assignment 1 Python Refresher
+# CS3980 Assignment 1 Python Refresher - Alan Chen
  
-# 0. Create a GitHub Repository
+## 0. Create a GitHub Repository
 
-# 1. Python Programming Basics
+## 1. Python Programming Basics
 
-# 2. Python Decorator Implementation
+## 2. Python Decorator Implementation
 
 
