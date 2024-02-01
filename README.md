@@ -3,7 +3,6 @@
 This repository contains Python scripts for the Python Refresher Assignment
 1. `echo.py` - a script that imitates a real-world echo.
 2. `fib.py` - a script that calculates the Fibonacci sequence and measures execution time.
-3. 
 ## 0. Create a GitHub Repository
 Link: https://github.com/AlanCTB/CS3980-Assignment1-Python-Refresher
 
