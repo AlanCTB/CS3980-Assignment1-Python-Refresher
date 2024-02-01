@@ -17,7 +17,7 @@ o
 
 ## 2. Python Decorator Implementation
 The `fib.py` script computes Fibonacci numbers using a recursive approach. To optimize performance, it utilizes the lru_cache decorator from the functools package to memoize previous results.
-![Fib Code](fibPNG.png)
+![Fib Code](FibPNG.png)
 ### Example output using the code:
 Finished in 0.00000160s: f(0) -> 0
 Finished in 0.00044330s: f(2) -> 1
