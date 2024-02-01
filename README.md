@@ -7,7 +7,7 @@ This repository contains Python scripts for the Python Refresher Assignment
 Link: https://github.com/AlanCTB/CS3980-Assignment1-Python-Refresher
 ## 1. Python Programming Basics
 The `echo.py` script simulates an echo effect.
-![Echo Code](/echoPNG.py)
+![Echo Code](/echoPNG.png)
 ### Example output using the code:
 Yell something at a mountain: Helloooo
 ooo
@@ -17,7 +17,7 @@ o
 
 ## 2. Python Decorator Implementation
 The `fib.py` script computes Fibonacci numbers using a recursive approach. To optimize performance, it utilizes the lru_cache decorator from the functools package to memoize previous results.
-![Fib Code](/fibPNG.py)
+![Fib Code](/fibPNG.png)
 ### Example output using the code:
 Finished in 0.00000160s: f(0) -> 0
 Finished in 0.00044330s: f(2) -> 1
