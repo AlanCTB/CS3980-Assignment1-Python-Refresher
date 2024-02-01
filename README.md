@@ -9,17 +9,18 @@ Link: https://github.com/AlanCTB/CS3980-Assignment1-Python-Refresher
 The `echo.py` script simulates an echo effect.
 ![Echo Code](EchoPNG.png)
 ### Example output using the code:
-Yell something at a mountain: Helloooo
+![Echo Output](EchoOut.png)
+'''Yell something at a mountain: Helloooo
 ooo
 oo
 o
-.
+'''
 
 ## 2. Python Decorator Implementation
 The `fib.py` script computes Fibonacci numbers using a recursive approach. To optimize performance, it utilizes the lru_cache decorator from the functools package to memoize previous results.
 ![Fib Code](FibPNG.png)
 ### Example output using the code:
-Finished in 0.00000160s: f(0) -> 0
+'''Finished in 0.00000160s: f(0) -> 0
 Finished in 0.00044330s: f(2) -> 1
 Finished in 0.00055240s: f(3) -> 2
 Finished in 0.00073010s: f(4) -> 3
@@ -118,7 +119,7 @@ Finished in 0.01695920s: f(96) -> 51680708854858323072
 Finished in 0.01712950s: f(97) -> 83621143489848422977
 Finished in 0.01730310s: f(98) -> 135301852344706746049
 Finished in 0.01746860s: f(99) -> 218922995834555169026
-Finished in 0.01762900s: f(100) -> 354224848179261915075
+Finished in 0.01762900s: f(100) -> 354224848179261915075'''
 
 
 ### Performance Graph
