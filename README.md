@@ -7,7 +7,7 @@ This repository contains Python scripts for the Python Refresher Assignment
 Link: https://github.com/AlanCTB/CS3980-Assignment1-Python-Refresher
 ## 1. Python Programming Basics
 The `echo.py` script simulates an echo effect.
-![Echo Code](echoPNG.png)
+![Echo Code](EchoPNG.png)
 ### Example output using the code:
 Yell something at a mountain: Helloooo
 ooo
