@@ -3,24 +3,37 @@
 This repository contains Python scripts for the Python Refresher Assignment
 1. `echo.py` - a script that imitates a real-world echo.
 2. `fib.py` - a script that calculates the Fibonacci sequence and measures execution time.
+3. 
 ## 0. Create a GitHub Repository
 Link: https://github.com/AlanCTB/CS3980-Assignment1-Python-Refresher
+
 ## 1. Python Programming Basics
 The `echo.py` script simulates an echo effect.
-![Echo Code](EchoPNG.png)
+![Echo Code](Images/EchoPNG.png)
+
 ### Example output using the code:
-![Echo Output](EchoOut.png)
+![Echo Output](Images/EchoOut.png)
+
+Code Block:
 ```
 Yell something at a mountain: Helloooo
 ooo
 oo
 o
+.
+Yell something at a mountain: Echo 123
+123
+12
+1
 ```
 
 ## 2. Python Decorator Implementation
 The `fib.py` script computes Fibonacci numbers using a recursive approach. To optimize performance, it utilizes the lru_cache decorator from the functools package to memoize previous results.
-![Fib Code](FibPNG.png)
+![Fib Code](Images/FibPNG.png)
 ### Example output using the code:
+![Fib Code](Images/FibOut.png)
+
+Code Block:
 ```
 Finished in 0.00000160s: f(0) -> 0
 Finished in 0.00044330s: f(2) -> 1
@@ -125,11 +138,9 @@ Finished in 0.01762900s: f(100) -> 354224848179261915075
 ```
 
 
-### Performance Graph
+### Performance Graph made using Excel
 The following graph shows the execution time for computing Fibonacci numbers as n increases:
-![](Fibonacci)
-
-
+![](Images/FibonacciGraph.png)
 
 
 As the value of n increases, the computation time of the alogrithmn increases exponentially. This is expected due to the recursive nature of the Fibonacci calculation. However, due to the use of lru_cache, the increase in the time remains within a manageable range. 
